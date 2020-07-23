@@ -1,5 +1,5 @@
 # Space-Invader-Game
-A gamer where you fight off enemy ships to protect the base!
+A game where you fight off enemy ships to protect the base!
 
 This was designed in pygame
 
